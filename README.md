@@ -69,7 +69,6 @@ results.show()
 ## 📚 References
 1. [NuInsSeg Dataset Paper](https://arxiv.org/abs/2308.01760)
 2. [YOLOv8 Documentation](https://docs.ultralytics.com/)
-3. [Video Tutorial](https://youtu.be/R-N-YXzvOmY)
 
 ## 📄 License
 MIT License - See [LICENSE](LICENSE) for details
