@@ -1,1 +1,1 @@
-# Atharwaaah-Nuclei-Segmentation-in-H-E-Stained-Images-Using-YOLOv8
+#Nuclei-Segmentation-in-H-E-Stained-Images-Using-YOLOv8
