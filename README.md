@@ -1,6 +1,5 @@
 #Nuclei-Segmentation-in-H-E-Stained-Images-Using-YOLOv8
 [![YOLOv8](https://img.shields.io/badge/Ultralytics-YOLOv8-00FFFF?style=flat)](https://github.com/ultralytics/ultralytics)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atharwaaah/Nuclei-Segmentation-YOLOv8) 
 
 **Instance segmentation pipeline for nuclei detection in H&E-stained histopathology images**  
 *Trained on the NuInsSeg dataset with 30k+ annotated nuclei from 31 human/mouse organs*
