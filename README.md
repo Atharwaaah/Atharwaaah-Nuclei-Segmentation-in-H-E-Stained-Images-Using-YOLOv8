@@ -34,15 +34,6 @@ This project implements a complete YOLOv8 nuclei segmentation workflow:
 ### 1. Data Preparation
 Organize data in YOLOv8 format:
 
-NuInsSeg_Nuclei_dataset/
-├── data.yaml
-├── train/
-│ ├── images/
-│ └── labels/
-├── valid/
-│ ├── images/
-│ └── labels/
-
 ### 2. Model Training
 
 from ultralytics import YOLO
