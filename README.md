@@ -20,7 +20,7 @@ This project implements a complete YOLOv8 nuclei segmentation workflow:
 |----------------------|--------------------|
 | Total Nuclei         | >30,000            |
 | Human Organs         | 23 (Brain, Liver, Kidney, etc) |
-| Mouse Organs         | 13                 |
+| Mouse Organs         | 8                 |
 | Image Patches        | 665                |
 | Resolution           | 512x512 pixels    |
 
