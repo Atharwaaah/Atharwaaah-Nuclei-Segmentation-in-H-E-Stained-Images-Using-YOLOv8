@@ -38,16 +38,12 @@ Organize data in YOLOv8 format:
 
 from ultralytics import YOLO
 Load pretrained weights
+
 model = YOLO('yolov8n-seg.pt')
+
 Train for 50 epochs
-results = model.train(
-data='/path/to/data.yaml',
-epochs=50,
-imgsz=512,
-batch=4,
-project='nuclei_seg_results',
-name='50_epochs'
-)
+
+results = model.train(data='/path/to/data.yaml',epochs=50,imgsz=512,batch=4,project='nuclei_seg_results',name='50_epochs')
 
 ### 3. Inference & Analysis
 
