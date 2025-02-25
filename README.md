@@ -4,7 +4,7 @@
 **Instance segmentation pipeline for nuclei detection in H&E-stained histopathology images**  
 *Trained on the NuInsSeg dataset with 30k+ annotated nuclei from 31 human/mouse organs*
 
-![YOLOv8 Nuclei Segmentation Demo](https://via.placeholder.com/600x400?text=Segmentation+Demo+GIF)
+
 
 ## 📝 Overview
 This project implements a complete YOLOv8 nuclei segmentation workflow:
